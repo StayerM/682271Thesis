@@ -1,0 +1,497 @@
+<?xml version="1.0" encoding="UTF-8"?><sqlb_project><db path="D:/UNI Local/Thesis garbage/Data/new_database.db" readonly="0" foreign_keys="1" case_sensitive_like="0" temp_store="0" wal_autocheckpoint="1000" synchronous="2"/><attached/><window><main_tabs open="structure browser pragmas query" current="3"/></window><tab_structure><column_width id="0" width="300"/><column_width id="1" width="0"/><column_width id="2" width="125"/><column_width id="3" width="9835"/><column_width id="4" width="0"/><expanded_item id="0" parent="1"/><expanded_item id="1" parent="1"/><expanded_item id="2" parent="1"/><expanded_item id="3" parent="1"/></tab_structure><tab_browse><current_table name="4,17:mainFinal_Stock_Table"/><default_encoding codec=""/><browse_table_settings><table schema="main" name="Additional compustat stock data" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_"><sort/><column_widths><column index="1" value="61"/><column index="2" value="91"/><column index="3" value="65"/><column index="4" value="52"/><column index="5" value="67"/><column index="6" value="66"/><column index="7" value="68"/><column index="8" value="78"/><column index="9" value="66"/><column index="10" value="286"/><column index="11" value="68"/><column index="12" value="82"/><column index="13" value="80"/><column index="14" value="91"/><column index="15" value="102"/><column index="16" value="93"/><column index="17" value="72"/><column index="18" value="81"/><column index="19" value="81"/><column index="20" value="71"/><column index="21" value="84"/><column index="22" value="84"/><column index="23" value="84"/><column index="24" value="84"/><column index="25" value="84"/><column index="26" value="60"/><column index="27" value="84"/><column index="28" value="93"/><column index="29" value="63"/><column index="30" value="111"/><column index="31" value="75"/><column index="32" value="138"/><column index="33" value="138"/><column index="34" value="300"/><column index="35" value="61"/><column index="36" value="74"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table><table schema="main" name="Compustat stock data" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_"><sort><column index="14" mode="0"/></sort><column_widths><column index="1" value="61"/><column index="2" value="91"/><column index="3" value="65"/><column index="4" value="52"/><column index="5" value="67"/><column index="6" value="66"/><column index="7" value="68"/><column index="8" value="78"/><column index="9" value="64"/><column index="10" value="274"/><column index="11" value="68"/><column index="12" value="82"/><column index="13" value="80"/><column index="14" value="91"/><column index="15" value="84"/><column index="16" value="84"/><column index="17" value="72"/><column index="18" value="75"/><column index="19" value="75"/><column index="20" value="71"/><column index="21" value="84"/><column index="22" value="75"/><column index="23" value="84"/><column index="24" value="84"/><column index="25" value="84"/><column index="26" value="90"/><column index="27" value="84"/><column index="28" value="75"/><column index="29" value="63"/><column index="30" value="102"/><column index="31" value="66"/><column index="32" value="300"/><column index="33" value="61"/><column index="34" value="74"/></column_widths><filter_values><column index="10" value="Aspen technology"/></filter_values><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table><table schema="main" name="Daily_prices" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_"><sort/><column_widths/><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table><table schema="main" name="Documents" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_"><sort><column index="5" mode="0"/></sort><column_widths><column index="1" value="75"/><column index="2" value="96"/><column index="3" value="101"/><column index="4" value="300"/><column index="5" value="300"/><column index="6" value="58"/><column index="7" value="300"/><column index="8" value="266"/><column index="9" value="211"/><column index="10" value="241"/><column index="11" value="300"/><column index="12" value="275"/><column index="13" value="300"/><column index="14" value="285"/><column index="15" value="300"/><column index="16" value="196"/><column index="17" value="300"/><column index="18" value="246"/><column index="19" value="197"/><column index="20" value="187"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table><table schema="main" name="DocumentsTransformed" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_"><sort/><column_widths><column index="1" value="70"/><column index="2" value="106"/><column index="3" value="136"/><column index="4" value="300"/><column index="5" value="225"/><column index="6" value="283"/><column index="7" value="300"/><column index="8" value="266"/><column index="9" value="211"/><column index="10" value="241"/><column index="11" value="300"/><column index="12" value="275"/><column index="13" value="300"/><column index="14" value="285"/><column index="15" value="300"/><column index="16" value="196"/><column index="17" value="300"/><column index="18" value="246"/><column index="19" value="197"/><column index="20" value="187"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table><table schema="main" name="Final_Stock_Table" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_"><sort/><column_widths><column index="1" value="75"/><column index="2" value="106"/><column index="3" value="136"/><column index="4" value="300"/><column index="5" value="225"/><column index="6" value="283"/><column index="7" value="300"/><column index="8" value="266"/><column index="9" value="211"/><column index="10" value="241"/><column index="11" value="300"/><column index="12" value="275"/><column index="13" value="300"/><column index="14" value="285"/><column index="15" value="300"/><column index="16" value="210"/><column index="17" value="300"/><column index="18" value="246"/><column index="19" value="197"/><column index="20" value="187"/><column index="21" value="111"/><column index="22" value="61"/><column index="23" value="52"/><column index="24" value="91"/><column index="25" value="69"/><column index="26" value="285"/><column index="27" value="106"/><column index="28" value="90"/><column index="29" value="66"/><column index="30" value="111"/><column index="31" value="102"/><column index="32" value="300"/><column index="33" value="72"/><column index="34" value="74"/><column index="35" value="84"/><column index="36" value="78"/><column index="37" value="103"/><column index="38" value="65"/><column index="39" value="52"/><column index="40" value="67"/><column index="41" value="66"/><column index="42" value="68"/><column index="43" value="78"/><column index="44" value="69"/><column index="45" value="285"/><column index="46" value="68"/><column index="47" value="82"/><column index="48" value="80"/><column index="49" value="91"/><column index="50" value="84"/><column index="51" value="93"/><column index="52" value="72"/><column index="53" value="75"/><column index="54" value="75"/><column index="55" value="71"/><column index="56" value="84"/><column index="57" value="93"/><column index="58" value="90"/><column index="59" value="84"/><column index="60" value="84"/><column index="61" value="90"/><column index="62" value="84"/><column index="63" value="75"/><column index="64" value="63"/><column index="65" value="102"/><column index="66" value="57"/><column index="67" value="300"/><column index="68" value="61"/><column index="69" value="91"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table><table schema="main" name="New_DocumentsTransformed" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_"><sort/><column_widths><column index="1" value="70"/><column index="2" value="106"/><column index="3" value="136"/><column index="4" value="300"/><column index="5" value="225"/><column index="6" value="283"/><column index="7" value="300"/><column index="8" value="266"/><column index="9" value="211"/><column index="10" value="241"/><column index="11" value="300"/><column index="12" value="275"/><column index="13" value="300"/><column index="14" value="285"/><column index="15" value="300"/><column index="16" value="204"/><column index="17" value="300"/><column index="18" value="246"/><column index="19" value="197"/><column index="20" value="187"/><column index="21" value="111"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table><table schema="main" name="New_Sections" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_"><sort/><column_widths><column index="1" value="70"/><column index="2" value="101"/><column index="3" value="132"/><column index="4" value="137"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table><table schema="main" name="New_Turns" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_"><sort/><column_widths><column index="1" value="70"/><column index="2" value="96"/><column index="3" value="76"/><column index="4" value="101"/><column index="5" value="99"/><column index="6" value="72"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table><table schema="main" name="Persons" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_"><sort/><column_widths/><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table><table schema="main" name="Sections" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_"><sort/><column_widths><column index="1" value="75"/><column index="2" value="101"/><column index="3" value="214"/><column index="4" value="300"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table><table schema="main" name="Status" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_"><sort/><column_widths><column index="1" value="300"/><column index="2" value="207"/><column index="3" value="65"/><column index="4" value="68"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table><table schema="main" name="Stock_doc_data_2009" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_"><sort/><column_widths><column index="1" value="70"/><column index="2" value="106"/><column index="3" value="136"/><column index="4" value="300"/><column index="5" value="225"/><column index="6" value="283"/><column index="7" value="300"/><column index="8" value="266"/><column index="9" value="211"/><column index="10" value="241"/><column index="11" value="300"/><column index="12" value="275"/><column index="13" value="300"/><column index="14" value="285"/><column index="15" value="300"/><column index="16" value="210"/><column index="17" value="300"/><column index="18" value="246"/><column index="19" value="197"/><column index="20" value="187"/><column index="21" value="111"/><column index="22" value="61"/><column index="23" value="52"/><column index="24" value="91"/><column index="25" value="77"/><column index="26" value="289"/><column index="27" value="106"/><column index="28" value="90"/><column index="29" value="66"/><column index="30" value="111"/><column index="31" value="102"/><column index="32" value="300"/><column index="33" value="72"/><column index="34" value="74"/><column index="35" value="84"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table><table schema="main" name="Stock_doc_data_2011" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_"><sort/><column_widths><column index="1" value="70"/><column index="2" value="106"/><column index="3" value="136"/><column index="4" value="300"/><column index="5" value="225"/><column index="6" value="283"/><column index="7" value="300"/><column index="8" value="266"/><column index="9" value="211"/><column index="10" value="241"/><column index="11" value="300"/><column index="12" value="275"/><column index="13" value="300"/><column index="14" value="285"/><column index="15" value="300"/><column index="16" value="211"/><column index="17" value="300"/><column index="18" value="246"/><column index="19" value="197"/><column index="20" value="187"/><column index="21" value="111"/><column index="22" value="61"/><column index="23" value="52"/><column index="24" value="91"/><column index="25" value="78"/><column index="26" value="292"/><column index="27" value="106"/><column index="28" value="99"/><column index="29" value="66"/><column index="30" value="120"/><column index="31" value="102"/><column index="32" value="300"/><column index="33" value="72"/><column index="34" value="74"/><column index="35" value="84"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table><table schema="main" name="Stock_doc_data_2015" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_"><sort/><column_widths><column index="1" value="75"/><column index="2" value="106"/><column index="3" value="136"/><column index="4" value="300"/><column index="5" value="225"/><column index="6" value="283"/><column index="7" value="300"/><column index="8" value="266"/><column index="9" value="211"/><column index="10" value="241"/><column index="11" value="300"/><column index="12" value="275"/><column index="13" value="300"/><column index="14" value="285"/><column index="15" value="300"/><column index="16" value="211"/><column index="17" value="300"/><column index="18" value="246"/><column index="19" value="197"/><column index="20" value="187"/><column index="21" value="111"/><column index="22" value="61"/><column index="23" value="52"/><column index="24" value="91"/><column index="25" value="78"/><column index="26" value="292"/><column index="27" value="106"/><column index="28" value="90"/><column index="29" value="66"/><column index="30" value="120"/><column index="31" value="102"/><column index="32" value="300"/><column index="33" value="72"/><column index="34" value="74"/><column index="35" value="84"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table><table schema="main" name="Stock_doc_data_2022" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_"><sort/><column_widths><column index="1" value="79"/><column index="2" value="106"/><column index="3" value="136"/><column index="4" value="300"/><column index="5" value="225"/><column index="6" value="283"/><column index="7" value="300"/><column index="8" value="266"/><column index="9" value="211"/><column index="10" value="241"/><column index="11" value="300"/><column index="12" value="275"/><column index="13" value="300"/><column index="14" value="285"/><column index="15" value="300"/><column index="16" value="211"/><column index="17" value="300"/><column index="18" value="246"/><column index="19" value="197"/><column index="20" value="187"/><column index="21" value="111"/><column index="22" value="61"/><column index="23" value="52"/><column index="24" value="91"/><column index="25" value="83"/><column index="26" value="295"/><column index="27" value="106"/><column index="28" value="93"/><column index="29" value="66"/><column index="30" value="120"/><column index="31" value="102"/><column index="32" value="300"/><column index="33" value="72"/><column index="34" value="74"/><column index="35" value="84"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table><table schema="main" name="Stock_doc_data_all_years" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_"><sort><column index="24" mode="0"/></sort><column_widths><column index="1" value="70"/><column index="2" value="106"/><column index="3" value="136"/><column index="4" value="300"/><column index="5" value="225"/><column index="6" value="283"/><column index="7" value="300"/><column index="8" value="266"/><column index="9" value="211"/><column index="10" value="241"/><column index="11" value="300"/><column index="12" value="275"/><column index="13" value="300"/><column index="14" value="285"/><column index="15" value="300"/><column index="16" value="210"/><column index="17" value="300"/><column index="18" value="246"/><column index="19" value="197"/><column index="20" value="187"/><column index="21" value="111"/><column index="22" value="61"/><column index="23" value="52"/><column index="24" value="91"/><column index="25" value="77"/><column index="26" value="289"/><column index="27" value="106"/><column index="28" value="90"/><column index="29" value="66"/><column index="30" value="111"/><column index="31" value="102"/><column index="32" value="300"/><column index="33" value="72"/><column index="34" value="74"/><column index="35" value="84"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table><table schema="main" name="Stock_doc_data_all_years_backup" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_"><sort/><column_widths><column index="1" value="70"/><column index="2" value="106"/><column index="3" value="136"/><column index="4" value="300"/><column index="5" value="225"/><column index="6" value="283"/><column index="7" value="300"/><column index="8" value="266"/><column index="9" value="211"/><column index="10" value="241"/><column index="11" value="300"/><column index="12" value="275"/><column index="13" value="300"/><column index="14" value="285"/><column index="15" value="300"/><column index="16" value="210"/><column index="17" value="300"/><column index="18" value="246"/><column index="19" value="197"/><column index="20" value="187"/><column index="21" value="111"/><column index="22" value="61"/><column index="23" value="52"/><column index="24" value="91"/><column index="25" value="77"/><column index="26" value="289"/><column index="27" value="106"/><column index="28" value="90"/><column index="29" value="66"/><column index="30" value="111"/><column index="31" value="102"/><column index="32" value="300"/><column index="33" value="72"/><column index="34" value="74"/><column index="35" value="84"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table><table schema="main" name="Turns" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_"><sort><column index="1" mode="1"/></sort><column_widths><column index="1" value="133"/><column index="2" value="96"/><column index="3" value="76"/><column index="4" value="101"/><column index="5" value="99"/><column index="6" value="300"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes><y_axis name="" line_style="0" point_shape="0" colour="#000000" active="0"/><y_axis name="Doc_id" line_style="1" point_shape="6" colour="#004586" active="0"/><y2_axis name="" line_style="0" point_shape="0" colour="#000000" active="0"/></plot_y_axes><global_filter/></table><table schema="main" name="sqlite_stat1" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_"><sort/><column_widths><column index="1" value="260"/><column index="2" value="190"/><column index="3" value="161"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table><table schema="main" name="sqlite_stat4" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_"><sort/><column_widths><column index="1" value="227"/><column index="2" value="190"/><column index="3" value="139"/><column index="4" value="300"/><column index="5" value="265"/><column index="6" value="175"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table><table schema="temp" name="temp_Daily_prices" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_"><sort/><column_widths><column index="1" value="61"/><column index="2" value="52"/><column index="3" value="91"/><column index="4" value="52"/><column index="5" value="192"/><column index="6" value="70"/><column index="7" value="52"/><column index="8" value="57"/><column index="9" value="93"/><column index="10" value="52"/><column index="11" value="300"/><column index="12" value="72"/><column index="13" value="74"/><column index="14" value="84"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table><table schema="temp" name="temp_DocumentsTransformed" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_"><sort/><column_widths><column index="1" value="70"/><column index="2" value="106"/><column index="3" value="136"/><column index="4" value="300"/><column index="5" value="225"/><column index="6" value="283"/><column index="7" value="300"/><column index="8" value="266"/><column index="9" value="211"/><column index="10" value="241"/><column index="11" value="300"/><column index="12" value="275"/><column index="13" value="300"/><column index="14" value="285"/><column index="15" value="300"/><column index="16" value="204"/><column index="17" value="300"/><column index="18" value="246"/><column index="19" value="197"/><column index="20" value="187"/><column index="21" value="111"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table></browse_table_settings></tab_browse><tab_sql><sql name="Addint formatted startdate column">-- Add a new column to store the formatted date
+ALTER TABLE Documents ADD COLUMN formatted_startDate TEXT;</sql><sql name="Formatting the start date to DD-MM-YYYY">-- Update the new column with the formatted date, correcting for two-digit days
+UPDATE Documents
+SET formatted_startDate = 
+    '20' || -- Prefix for the century
+    substr(XML_event_startDate, -- Extracting the year
+           instr(substr(XML_event_startDate, instr(XML_event_startDate, '-') + 1), '-') + instr(XML_event_startDate, '-') + 1, 
+           2) || '-' || -- Year comes after the second '-'
+    (CASE -- Converting month abbreviation to number
+        WHEN substr(XML_event_startDate, instr(XML_event_startDate, '-') + 1, 3) = 'Jan' THEN '01'
+        WHEN substr(XML_event_startDate, instr(XML_event_startDate, '-') + 1, 3) = 'Feb' THEN '02'
+        WHEN substr(XML_event_startDate, instr(XML_event_startDate, '-') + 1, 3) = 'Mar' THEN '03'
+        WHEN substr(XML_event_startDate, instr(XML_event_startDate, '-') + 1, 3) = 'Apr' THEN '04'
+        WHEN substr(XML_event_startDate, instr(XML_event_startDate, '-') + 1, 3) = 'May' THEN '05'
+        WHEN substr(XML_event_startDate, instr(XML_event_startDate, '-') + 1, 3) = 'Jun' THEN '06'
+        WHEN substr(XML_event_startDate, instr(XML_event_startDate, '-') + 1, 3) = 'Jul' THEN '07'
+        WHEN substr(XML_event_startDate, instr(XML_event_startDate, '-') + 1, 3) = 'Aug' THEN '08'
+        WHEN substr(XML_event_startDate, instr(XML_event_startDate, '-') + 1, 3) = 'Sep' THEN '09'
+        WHEN substr(XML_event_startDate, instr(XML_event_startDate, '-') + 1, 3) = 'Oct' THEN '10'
+        WHEN substr(XML_event_startDate, instr(XML_event_startDate, '-') + 1, 3) = 'Nov' THEN '11'
+        WHEN substr(XML_event_startDate, instr(XML_event_startDate, '-') + 1, 3) = 'Dec' THEN '12'
+    END) || '-' ||
+    CASE 
+        WHEN length(substr(XML_event_startDate, 1, instr(XML_event_startDate, '-') - 1)) = 1
+        THEN '0' || substr(XML_event_startDate, 1, instr(XML_event_startDate, '-') - 1) -- Prepend '0' if the day is a single digit
+        ELSE substr(XML_event_startDate, 1, instr(XML_event_startDate, '-') - 1) -- Use as is if the day is two digits
+    END; -- Day extraction with leading zero adjustment</sql><sql name="Creating new table with only earnings calls">CREATE TABLE DocumentsTransformed AS
+SELECT *
+FROM Documents
+WHERE XML_Event_eventTypeId = 1;</sql><sql name="Creating ticker prefix column in documents">ALTER TABLE DocumentsTransformed
+ADD COLUMN TickerPrefix TEXT;</sql><sql name="Populating ticker prefix column in documents">UPDATE DocumentsTransformed
+SET TickerPrefix = SUBSTR(XML_Event_companyTicker, 1, 
+                          CASE 
+                              WHEN INSTR(XML_Event_companyTicker, '^') = 0 AND INSTR(XML_Event_companyTicker, '.') = 0 THEN LENGTH(XML_Event_companyTicker)
+                              WHEN INSTR(XML_Event_companyTicker, '^') = 0 THEN INSTR(XML_Event_companyTicker, '.') - 1
+                              WHEN INSTR(XML_Event_companyTicker, '.') = 0 THEN INSTR(XML_Event_companyTicker, '^') - 1
+                              ELSE MIN(INSTR(XML_Event_companyTicker, '^'), INSTR(XML_Event_companyTicker, '.')) - 1
+                          END);</sql><sql name="Adding ticprefix column">ALTER TABLE Daily_prices
+ADD COLUMN TicPrefix TEXT;</sql><sql name="Populating ticprefix column">UPDATE Daily_prices
+SET TicPrefix = SUBSTR(tic, 1, COALESCE(NULLIF(INSTR(tic, '.') - 1, -1), LENGTH(tic)));
+</sql><sql name="Cutting of After great recession">-- Creating a new table from DocumentsTransformed with data after June 2009
+CREATE TABLE New_DocumentsTransformed AS
+SELECT *
+FROM DocumentsTransformed
+WHERE formatted_startDate &gt; '2009-06-30';
+
+-- Creating a new table from Daily_prices with data after June 2009
+CREATE TABLE New_Daily_prices AS
+SELECT *
+FROM Daily_prices
+WHERE datadate &gt; '2009-06-30';</sql><sql name="Creating indexes">-- Creating an index on the 'TickerPrefix' column of the 'DocumentsTransformed' table
+CREATE INDEX idx_tickerprefix ON New_DocumentsTransformed(TickerPrefix);
+
+-- Creating an index on the 'TicPrefix' column of the 'Daily_prices' table
+CREATE INDEX idx_ticprefix ON New_Daily_prices(TicPrefix);
+
+-- Creating an index on the 'XML_Event_startDate' column of the 'DocumentsTransformed' table
+CREATE INDEX idx_formatted_startDate ON New_DocumentsTransformed(formatted_startDate);
+
+-- Creating an index on the 'datadate' column of the 'Daily_prices' table
+CREATE INDEX idx_datadate ON New_Daily_prices(datadate);
+
+CREATE INDEX docstock_docid ON Stock_doc_data_all_years(Doc_id)
+
+CREATE INDEX docstock_docid ON Final_Stock_Table(Doc_id)
+
+CREATE INDEX turns_sectionid ON Turns(Section_id)
+CREATE INDEX turns_sectiondocid ON Turns(Section_id, Doc_id)
+CREATE INDEX sections_sectiondocid ON New_Sections(Section_id, Doc_id)
+</sql><sql name="Creating table merging earnings call transcript info with related stock info">CREATE TABLE Stock_doc_data_2009 AS
+SELECT *
+FROM New_DocumentsTransformed
+JOIN New_Daily_prices
+ON New_DocumentsTransformed.TickerPrefix = New_Daily_prices.TicPrefix
+AND New_DocumentsTransformed.formatted_startDate = New_Daily_prices.datadate
+WHERE New_DocumentsTransformed.formatted_startDate &gt;= '2009-01-01'
+AND New_DocumentsTransformed.formatted_startDate &lt; '2010-01-01';
+
+CREATE TABLE Stock_doc_data_2010 AS
+SELECT *
+FROM New_DocumentsTransformed
+JOIN New_Daily_prices
+ON New_DocumentsTransformed.TickerPrefix = New_Daily_prices.TicPrefix
+AND New_DocumentsTransformed.formatted_startDate = New_Daily_prices.datadate
+WHERE New_DocumentsTransformed.formatted_startDate &gt;= '2010-01-01'
+AND New_DocumentsTransformed.formatted_startDate &lt; '2011-01-01';
+
+CREATE TABLE Stock_doc_data_2011 AS
+SELECT *
+FROM New_DocumentsTransformed
+JOIN New_Daily_prices
+ON New_DocumentsTransformed.TickerPrefix = New_Daily_prices.TicPrefix
+AND New_DocumentsTransformed.formatted_startDate = New_Daily_prices.datadate
+WHERE New_DocumentsTransformed.formatted_startDate &gt;= '2011-01-01'
+AND New_DocumentsTransformed.formatted_startDate &lt; '2012-01-01';
+
+CREATE TABLE Stock_doc_data_2012 AS
+SELECT *
+FROM New_DocumentsTransformed
+JOIN New_Daily_prices
+ON New_DocumentsTransformed.TickerPrefix = New_Daily_prices.TicPrefix
+AND New_DocumentsTransformed.formatted_startDate = New_Daily_prices.datadate
+WHERE New_DocumentsTransformed.formatted_startDate &gt;= '2012-01-01'
+AND New_DocumentsTransformed.formatted_startDate &lt; '2013-01-01';
+
+CREATE TABLE Stock_doc_data_2013 AS
+SELECT *
+FROM New_DocumentsTransformed
+JOIN New_Daily_prices
+ON New_DocumentsTransformed.TickerPrefix = New_Daily_prices.TicPrefix
+AND New_DocumentsTransformed.formatted_startDate = New_Daily_prices.datadate
+WHERE New_DocumentsTransformed.formatted_startDate &gt;= '2013-01-01'
+AND New_DocumentsTransformed.formatted_startDate &lt; '2014-01-01';
+
+CREATE TABLE Stock_doc_data_2014 AS
+SELECT *
+FROM New_DocumentsTransformed
+JOIN New_Daily_prices
+ON New_DocumentsTransformed.TickerPrefix = New_Daily_prices.TicPrefix
+AND New_DocumentsTransformed.formatted_startDate = New_Daily_prices.datadate
+WHERE New_DocumentsTransformed.formatted_startDate &gt;= '2014-01-01'
+AND New_DocumentsTransformed.formatted_startDate &lt; '2015-01-01';
+
+CREATE TABLE Stock_doc_data_2015 AS
+SELECT *
+FROM New_DocumentsTransformed
+JOIN New_Daily_prices
+ON New_DocumentsTransformed.TickerPrefix = New_Daily_prices.TicPrefix
+AND New_DocumentsTransformed.formatted_startDate = New_Daily_prices.datadate
+WHERE New_DocumentsTransformed.formatted_startDate &gt;= '2015-01-01'
+AND New_DocumentsTransformed.formatted_startDate &lt; '2016-01-01';
+
+-- up to here
+
+CREATE TABLE Stock_doc_data_2016 AS
+SELECT *
+FROM New_DocumentsTransformed
+JOIN New_Daily_prices
+ON New_DocumentsTransformed.TickerPrefix = New_Daily_prices.TicPrefix
+AND New_DocumentsTransformed.formatted_startDate = New_Daily_prices.datadate
+WHERE New_DocumentsTransformed.formatted_startDate &gt;= '2016-01-01'
+AND New_DocumentsTransformed.formatted_startDate &lt; '2017-01-01';
+
+CREATE TABLE Stock_doc_data_2017 AS
+SELECT *
+FROM New_DocumentsTransformed
+JOIN New_Daily_prices
+ON New_DocumentsTransformed.TickerPrefix = New_Daily_prices.TicPrefix
+AND New_DocumentsTransformed.formatted_startDate = New_Daily_prices.datadate
+WHERE New_DocumentsTransformed.formatted_startDate &gt;= '2017-01-01'
+AND New_DocumentsTransformed.formatted_startDate &lt; '2018-01-01';
+
+CREATE TABLE Stock_doc_data_2018 AS
+SELECT *
+FROM New_DocumentsTransformed
+JOIN New_Daily_prices
+ON New_DocumentsTransformed.TickerPrefix = New_Daily_prices.TicPrefix
+AND New_DocumentsTransformed.formatted_startDate = New_Daily_prices.datadate
+WHERE New_DocumentsTransformed.formatted_startDate &gt;= '2018-01-01'
+AND New_DocumentsTransformed.formatted_startDate &lt; '2019-01-01';
+
+CREATE TABLE Stock_doc_data_2019 AS
+SELECT *
+FROM New_DocumentsTransformed
+JOIN New_Daily_prices
+ON New_DocumentsTransformed.TickerPrefix = New_Daily_prices.TicPrefix
+AND New_DocumentsTransformed.formatted_startDate = New_Daily_prices.datadate
+WHERE New_DocumentsTransformed.formatted_startDate &gt;= '2019-01-01'
+AND New_DocumentsTransformed.formatted_startDate &lt; '2020-01-01';
+
+CREATE TABLE Stock_doc_data_2020 AS
+SELECT *
+FROM New_DocumentsTransformed
+JOIN New_Daily_prices
+ON New_DocumentsTransformed.TickerPrefix = New_Daily_prices.TicPrefix
+AND New_DocumentsTransformed.formatted_startDate = New_Daily_prices.datadate
+WHERE New_DocumentsTransformed.formatted_startDate &gt;= '2020-01-01'
+AND New_DocumentsTransformed.formatted_startDate &lt; '2021-01-01';
+
+CREATE TABLE Stock_doc_data_2021 AS
+SELECT *
+FROM New_DocumentsTransformed
+JOIN New_Daily_prices
+ON New_DocumentsTransformed.TickerPrefix = New_Daily_prices.TicPrefix
+AND New_DocumentsTransformed.formatted_startDate = New_Daily_prices.datadate
+WHERE New_DocumentsTransformed.formatted_startDate &gt;= '2021-01-01'
+AND New_DocumentsTransformed.formatted_startDate &lt; '2022-01-01';
+
+CREATE TABLE Stock_doc_data_2022 AS
+SELECT *
+FROM New_DocumentsTransformed
+JOIN New_Daily_prices
+ON New_DocumentsTransformed.TickerPrefix = New_Daily_prices.TicPrefix
+AND New_DocumentsTransformed.formatted_startDate = New_Daily_prices.datadate
+WHERE New_DocumentsTransformed.formatted_startDate &gt;= '2022-01-01'
+AND New_DocumentsTransformed.formatted_startDate &lt; '2023-01-01';
+</sql><sql name="Merging all the year data">CREATE TABLE Stock_doc_data_all_years AS
+
+SELECT * FROM Stock_doc_data_2009
+UNION ALL
+SELECT * FROM Stock_doc_data_2010
+UNION ALL
+SELECT * FROM Stock_doc_data_2011
+UNION ALL
+SELECT * FROM Stock_doc_data_2012
+UNION ALL
+SELECT * FROM Stock_doc_data_2013
+UNION ALL
+SELECT * FROM Stock_doc_data_2014
+UNION ALL
+SELECT * FROM Stock_doc_data_2015
+UNION ALL
+SELECT * FROM Stock_doc_data_2016
+UNION ALL
+SELECT * FROM Stock_doc_data_2017
+UNION ALL
+SELECT * FROM Stock_doc_data_2018
+UNION ALL
+SELECT * FROM Stock_doc_data_2019
+UNION ALL
+SELECT * FROM Stock_doc_data_2020
+UNION ALL
+SELECT * FROM Stock_doc_data_2021
+UNION ALL
+SELECT * FROM Stock_doc_data_2022;
+</sql><sql name="Checking for dupes">SELECT Doc_id, COUNT(*) as count
+FROM Stock_doc_data_all_years
+GROUP BY Doc_id
+HAVING COUNT(*) &gt; 1;
+
+</sql><sql name="Deleting dupes and back up">CREATE TABLE Stock_doc_data_all_years_backup AS
+SELECT * FROM Stock_doc_data_all_years;
+
+DELETE FROM Stock_doc_data_all_years
+WHERE iid != 1 AND Doc_id IN (
+    SELECT Doc_id
+    FROM (
+        SELECT Doc_id
+        FROM Stock_doc_data_all_years
+        GROUP BY Doc_id
+        HAVING COUNT(*) &gt; 1
+    ) subquery
+);
+
+DELETE FROM Stock_doc_data_all_years
+WHERE gsector IS NULL AND Doc_id IN (
+    SELECT Doc_id
+    FROM (
+        SELECT Doc_id
+        FROM Stock_doc_data_all_years
+        GROUP BY Doc_id
+        HAVING COUNT(*) &gt; 1
+    ) subquery
+);
+
+DELETE FROM Stock_doc_data_all_years
+WHERE Doc_id IN (
+    SELECT Doc_id
+    FROM (
+        SELECT Doc_id
+        FROM Stock_doc_data_all_years
+        WHERE tic LIKE '%.%'
+        GROUP BY Doc_id
+        HAVING COUNT(*) &gt; 1
+    ) subquery
+);
+
+DELETE FROM Stock_doc_data_all_years
+WHERE Doc_id IN (
+    SELECT Doc_id
+    FROM (
+        SELECT 
+            Doc_id,
+            conm,
+            XML_Event_companyName,
+            MAX(CASE WHEN LOWER(conm) = LOWER(XML_Event_companyName) THEN 1 ELSE 0 END) OVER (PARTITION BY Doc_id) AS has_exact_match,
+            COUNT(*) OVER (PARTITION BY Doc_id) AS doc_count
+        FROM Stock_doc_data_all_years
+    ) subquery
+    WHERE has_exact_match = 1 AND LOWER(conm) &lt;&gt; LOWER(XML_Event_companyName) AND doc_count &gt; 1
+);
+
+DELETE FROM Stock_doc_data_all_years
+WHERE Doc_id IN (
+    SELECT Doc_id
+    FROM Stock_doc_data_all_years
+    GROUP BY Doc_id
+    HAVING COUNT(*) &gt; 1
+);
+
+
+</sql><sql name="Supplementing some info">INSERT INTO &quot;Compustat stock data&quot; (
+    &quot;gvkey&quot;,
+    &quot;datadate&quot;,
+    &quot;fyearq&quot;,
+    &quot;fqtr&quot;,
+    &quot;indfmt&quot;,
+    &quot;consol&quot;,
+    &quot;popsrc&quot;,
+    &quot;datafmt&quot;,
+    &quot;tic&quot;,
+    &quot;conm&quot;,
+    &quot;curcdq&quot;,
+    &quot;datacqtr&quot;,
+    &quot;datafqtr&quot;,
+    &quot;rdq&quot;,
+    &quot;actq&quot;,
+    &quot;atq&quot;,
+    &quot;epspxq&quot;,
+    &quot;ibq&quot;,
+    &quot;niq&quot;,
+    &quot;optrfrq&quot;,
+    &quot;ppentq&quot;,
+    &quot;rectq&quot;,
+    &quot;req&quot;,
+    &quot;revtq&quot;,
+    &quot;saleq&quot;,
+    &quot;spceq&quot;,
+    &quot;xrdq&quot;,
+    &quot;capxy&quot;,
+    &quot;costat&quot;,
+    &quot;mkvaltq&quot;,
+    &quot;prccq&quot;,
+    &quot;busdesc&quot;,
+    &quot;gind&quot;,
+    &quot;gsector&quot;
+)
+SELECT
+    &quot;gvkey&quot;,
+    &quot;datadate&quot;,
+    &quot;fyearq&quot;,
+    &quot;fqtr&quot;,
+    &quot;indfmt&quot;,
+    &quot;consol&quot;,
+    &quot;popsrc&quot;,
+    &quot;datafmt&quot;,
+    &quot;tic&quot;,
+    &quot;conm&quot;,
+    &quot;curcdq&quot;,
+    &quot;datacqtr&quot;,
+    &quot;datafqtr&quot;,
+    &quot;rdq&quot;,
+    &quot;actq&quot;,
+    &quot;atq&quot;,
+    &quot;epspxq&quot;,
+    &quot;ibq&quot;,
+    &quot;niq&quot;,
+    &quot;optrfrq&quot;,
+    &quot;ppentq&quot;,
+    &quot;rectq&quot;,
+    &quot;req&quot;,
+    &quot;revtq&quot;,
+    &quot;saleq&quot;,
+    &quot;spceq&quot;,
+    &quot;xrdq&quot;,
+    &quot;capxy&quot;,
+    &quot;costat&quot;,
+    &quot;mkvaltq&quot;,
+    &quot;prccq&quot;,
+    &quot;busdesc&quot;,
+    &quot;gind&quot;,
+    &quot;gsector&quot;
+FROM &quot;Additional compustat stock data&quot;
+</sql><sql name="Indices for last join">-- Index on Stock_doc_data_all_years for gvkey and datadate
+CREATE INDEX idx_stock_doc_gvkey ON Stock_doc_data_all_years(gvkey);
+CREATE INDEX idx_stock_doc_datadate ON Stock_doc_data_all_years(datadate);
+
+-- Index on Compustat stock data for gvkey and rdq
+CREATE INDEX idx_compustat_gvkey ON &quot;Compustat stock data&quot;(gvkey);
+CREATE INDEX idx_compustat_rdq ON &quot;Compustat stock data&quot;(rdq);</sql><sql name="Final Join">CREATE TABLE Final_Stock_Table AS
+SELECT 
+    a.*,
+    b.*
+FROM 
+    Stock_doc_data_all_years a
+JOIN 
+    &quot;Compustat stock data&quot; b
+ON 
+    a.gvkey = b.gvkey
+    AND (a.datadate = b.rdq OR ABS(julianday(a.datadate) - julianday(b.rdq)) &lt;= 1);</sql><sql name="Dealing with latest dupes">SELECT Doc_id, COUNT(*) as count
+FROM Final_Stock_Table
+GROUP BY Doc_id
+HAVING COUNT(*) &gt; 1;
+
+DELETE FROM Final_Stock_Table
+WHERE Doc_id IN (
+    SELECT Doc_id
+    FROM Final_Stock_Table
+    GROUP BY Doc_id
+    HAVING COUNT(*) &gt; 1
+);
+</sql><sql name="Collecting relevant transcripts">CREATE TABLE New_Sections AS
+SELECT *
+FROM Sections s
+WHERE s.Section_name = 'Presentation'
+AND EXISTS (
+    SELECT 1
+    FROM Final_Stock_Table y
+    WHERE y.Doc_id = s.Doc_id
+);</sql><sql name="Getting the text data">SELECT 'Turns' as Table_Name, MIN(Doc_id) as Min_Doc_id, MAX(Doc_id) as Max_Doc_id
+FROM Turns
+
+SELECT 'New_Sections' as Table_Name, MIN(Doc_id) as Min_Doc_id, MAX(Doc_id) as Max_Doc_id
+FROM New_Sections;
+
+-- Between 1678286 and 15235586
+CREATE TABLE `New_Turns`
+    (`Doc_id` INTEGER,
+    `Person_id` INTEGER,
+    `Turn_id` INTEGER,
+    `Section_id` INTEGER,
+    `Speech_id` INTEGER,
+    `Speech` TEXT
+)
+
+
+
+INSERT INTO New_Turns
+SELECT Doc_id, Person_id, Turn_id, Section_id, Speech_id, Speech
+FROM Turns t
+WHERE t.Doc_id &gt;= 1678286 
+AND t.Doc_id &lt; 3000000
+AND EXISTS (
+    SELECT 1
+    FROM New_Sections ns
+    WHERE ns.Doc_id = t.Doc_id AND ns.Section_id = t.Section_id
+	AND t.Doc_id &gt;= 1678286 
+	AND t.Doc_id &lt; 3000000
+);
+
+INSERT INTO New_Turns
+SELECT Doc_id, Person_id, Turn_id, Section_id, Speech_id, Speech
+FROM Turns t
+WHERE t.Doc_id &gt;= 3000000 
+AND t.Doc_id &lt; 5000000
+AND EXISTS (
+    SELECT 1
+    FROM New_Sections ns
+    WHERE ns.Doc_id = t.Doc_id AND ns.Section_id = t.Section_id
+	AND t.Doc_id &gt;= 3000000 
+	AND t.Doc_id &lt; 5000000
+);
+
+INSERT INTO New_Turns
+SELECT Doc_id, Person_id, Turn_id, Section_id, Speech_id, Speech
+FROM Turns t
+WHERE t.Doc_id &gt;= 5000000 
+AND t.Doc_id &lt; 7000000
+AND EXISTS (
+    SELECT 1
+    FROM New_Sections ns
+    WHERE ns.Doc_id = t.Doc_id AND ns.Section_id = t.Section_id
+	AND t.Doc_id &gt;= 5000000 
+	AND t.Doc_id &lt; 7000000
+);
+
+INSERT INTO New_Turns
+SELECT Doc_id, Person_id, Turn_id, Section_id, Speech_id, Speech
+FROM Turns t
+WHERE t.Doc_id &gt;= 7000000 
+AND t.Doc_id &lt; 9000000
+AND EXISTS (
+    SELECT 1
+    FROM New_Sections ns
+    WHERE ns.Doc_id = t.Doc_id AND ns.Section_id = t.Section_id
+	AND t.Doc_id &gt;= 7000000 
+	AND t.Doc_id &lt; 9000000
+);
+
+INSERT INTO New_Turns
+SELECT Doc_id, Person_id, Turn_id, Section_id, Speech_id, Speech
+FROM Turns t
+WHERE t.Doc_id &gt;= 9000000 
+AND t.Doc_id &lt; 11000000
+AND EXISTS (
+    SELECT 1
+    FROM New_Sections ns
+    WHERE ns.Doc_id = t.Doc_id AND ns.Section_id = t.Section_id
+	AND t.Doc_id &gt;= 9000000 
+	AND t.Doc_id &lt; 11000000
+);
+
+-- up to here 27-04-2024
+
+INSERT INTO New_Turns
+SELECT Doc_id, Person_id, Turn_id, Section_id, Speech_id, Speech
+FROM Turns t
+WHERE t.Doc_id &gt;= 11000000 
+AND t.Doc_id &lt; 15235586
+AND EXISTS (
+    SELECT 1
+    FROM New_Sections ns
+    WHERE ns.Doc_id = t.Doc_id AND ns.Section_id = t.Section_id
+	AND t.Doc_id &gt;= 11000000 
+	AND t.Doc_id &lt; 15235586
+);
+</sql><current_tab id="18"/></tab_sql></sqlb_project>
